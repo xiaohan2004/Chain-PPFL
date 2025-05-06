@@ -25,8 +25,9 @@ Chain-PPFL框架主要包含以下几个核心组件：
 ## 许可证
 
 本项目基于 Yong Li 发布的开源协议规范文档（遵循 MQ License）进行修改，原始内容版权归其作者所有。
+
 本项目的新增和修改部分由 [xiaohan2004] 于 [2025] 发布，并同样遵循 MQ License。
 
 ## 原项目地址
 
-https://github.com/ITSEG-MQ/Chain-PPFL
+[Chain-PPFL](https://github.com/ITSEG-MQ/Chain-PPFL)
